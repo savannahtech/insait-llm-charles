@@ -18,7 +18,7 @@ This chatbot is built using Python and utilizes machine learning techniques to u
 1. **Clone the repository:**
 
     ```bash
-    https://github.com/savannahtech/insait-llm-charles
+   git clone https://github.com/savannahtech/insait-llm-charles
     cd ecommerce-chatbot
     ```
 
