@@ -1,0 +1,10 @@
+langchain
+# langchain-cohere
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-openai
+langgraph
+langchainhub
+pandas
+python-dotenv
